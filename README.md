@@ -34,4 +34,4 @@ npm run deploy
 ```
 
 ## Demo
-[Capybara Tasks](https://estellacoding.github.io/capybara-tasks)
+[Capybara Tasks](https://estellacoding.github.io/capybara-tasks/)
