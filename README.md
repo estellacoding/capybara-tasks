@@ -37,4 +37,4 @@ npm run deploy
 [Capybara Tasks](https://estellacoding.github.io/capybara-tasks/)
 
 ## 開發工具
-本專案由 [Qwen3](https://chat.qwen.ai/) 協助構思與文案生成。
+本專案由 [Qwen3](https://chat.qwen.ai/) 協助生成。
