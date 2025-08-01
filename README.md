@@ -35,3 +35,6 @@ npm run deploy
 
 ## Demo
 [Capybara Tasks](https://estellacoding.github.io/capybara-tasks/)
+
+## 工具
+[Qwen3](https://chat.qwen.ai/)
